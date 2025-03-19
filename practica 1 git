@@ -1,0 +1,9 @@
+#python
+x= 34
+if x  % 2 == 0: #asi es como creas un comentario y ahora comprueba
+if x > 10:
+    print("Este numero es par y es mayor que 10")
+    else:
+    print("Este numero es par,pero no mayor 10")
+    else:
+    print("El numero no es par. Asi que punto de verificacion mas")
